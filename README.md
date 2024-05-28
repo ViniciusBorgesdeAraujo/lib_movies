@@ -4,7 +4,7 @@ MoviesLib é uma aplicação web construída com Vite e React que permite aos us
 
 ## Visão Geral
 
-- **Framework:** React com Vite
+- **Estrutura:** React com Vite
 - **Roteamento:** React Router
 - **Ícones:** React Icons
 - **Estilização:** CSS
